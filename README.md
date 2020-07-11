@@ -1,6 +1,6 @@
 ### Welcome to my github page
 Noting special  
-trying to study manythings but not to deep.  
+trying to study various things but not too deep.  
 mostly interested in Robotics.  
 Running two blog (only Korean)  
 https://blog.naver.com/nswve  

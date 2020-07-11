@@ -1,7 +1,10 @@
-### Hi there 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
+### Welcome to my github page
+Noting special
+trying to study manythings but not to deep.
+mostly interested in Robotics.
+Running two blog (only Korean)
+https://blog.naver.com/nswve
+https://ropiens.tistory.com
 <!--
 **benthebear93/benthebear93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

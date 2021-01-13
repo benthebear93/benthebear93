@@ -1,7 +1,9 @@
 ### Welcome to my github page
-Noting special  
-trying to study various things but not too deep.  
-mostly interested in Robotics.  
+ 
+mostly interested in Robotics.
+
+currently studying Point cloud, Manipulator control, Sensor fusion.
+
 Running two blog (only Korean)  
 https://blog.naver.com/nswve  
 https://ropiens.tistory.com  

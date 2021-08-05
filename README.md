@@ -1,22 +1,23 @@
-### RObotics Engineer
+### Robotics Engineer
 
 - Doing Mechanical Engineering master's degree at UNIST, Korea
 
-### Experience :
+#### Experience :
 Machine Learning : Reinforcement learning with openai gym, Pytorch  
 Navigation : Sensor fusion with KF, EKF, H-INF  
 Simulation : Gazebo, Vrep, Pybullet  
 Perception : opencv , point cloud library  
 Programming Language / Framework : C/C++, Python, MATLAB, Pytorch, ROS, Moveit  
  
-### Interested in 
+#### Interested in 
 - Motion planning and Control
 - Perception (Camera and Pointcloud)
 - Reinforcement learning
 
-### Tech Blog (written in Korean)
+#### Tech Blog (written in Korean)
 Personal blog : https://blog.naver.com/nswve  
 Team     blod : https://ropiens.tistory.com  
+
 Linked In     : https://www.linkedin.com/in/ben-lee-30a9a834/
 <!--
 **benthebear93/benthebear93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

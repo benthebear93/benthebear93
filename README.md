@@ -16,7 +16,7 @@
 
 #### Tech Blog (written in Korean)
 Personal blog : https://blog.naver.com/nswve  
-Team     blod : https://ropiens.tistory.com  
+Team     blog : https://ropiens.tistory.com  
 
 Linked In     : https://www.linkedin.com/in/ben-lee-30a9a834/
 <!--

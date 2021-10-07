@@ -1,13 +1,6 @@
 ### Robotics Engineer
 
-- Doing Mechanical Engineering master's degree at UNIST, Korea
-
-#### Experience :
-- Machine Learning : Reinforcement learning with openai gym, Pytorch  
-- Navigation : Sensor fusion with KF, EKF, H-INF  
-- Simulation : Gazebo, Vrep, Pybullet  
-- Perception : opencv , point cloud library  
-- Programming Language / Framework : C/C++, Python, MATLAB, Pytorch, ROS, Moveit  
+- Doing Mechanical Engineering master's degree at UNIST, Korea  
  
 #### Interested in 
 - Motion planning and Control

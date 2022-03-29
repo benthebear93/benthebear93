@@ -1,6 +1,7 @@
 ### Robotics Engineer
 
-- Doing Mechanical Engineering master's degree at UNIST, Korea  
+- Graduated Mechanical Engineering master's degree at UNIST, Korea 
+- Robotics Control Engineer at Doosan robotics, Korea
  
 #### Interested in 
 - Motion planning and Control

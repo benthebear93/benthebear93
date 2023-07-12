@@ -6,7 +6,6 @@
 #### Interested in 
 - Motion planning and Control
 - Perception (Camera and Pointcloud)
-- Reinforcement learning
 
 #### Tech Blog (written in Korean)
 Personal blog : https://blog.naver.com/nswve  

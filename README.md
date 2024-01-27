@@ -2,6 +2,7 @@
 
 - Graduated Mechanical Engineering master's degree at UNIST, Korea 
 - Robotics Control Engineer at Doosan robotics, Korea
+- PhD Student at SDU Robotics, Denmark
  
 #### Interested in 
 - Motion planning and Control

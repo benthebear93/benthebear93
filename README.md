@@ -1,7 +1,7 @@
 ### Robotics Engineer
 
 - Graduated Mechanical Engineering master's degree at UNIST, Korea 
-- Robotics Control Engineer at Doosan robotics, Korea (2021.12~2023.12)
+- Robotics Control Engineer at Doosan Robotics, Korea (2021.12~2023.12)
 - PhD Student at SDU Robotics, Denmark (2024.1~ )
  
 #### Interested in 
